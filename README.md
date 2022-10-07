@@ -1,4 +1,4 @@
-# Hi there, I'm Amir✌️
+# Hi there, I'm Amir A FullStack Developer Web✌️
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amiralidev01&show_icons=true&theme=radical"/>
