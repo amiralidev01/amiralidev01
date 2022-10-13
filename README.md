@@ -1,4 +1,4 @@
-# Hi there, I'm Amir A FullStack Developer Web✌️
+# Hi there, I'm Amir Ali FullStack Developer Web✌️
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amiralidev01&show_icons=true&theme=radical"/>
